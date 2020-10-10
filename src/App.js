@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Welcome to BuildForSDG Cohort : 2.
+          Welcome to BuildForSDG Cohort : 2. Test
         </p>
         <a
           className="App-link"
